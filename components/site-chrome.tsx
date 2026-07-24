@@ -47,8 +47,8 @@ export function Footer() {
           className="h-16 w-auto opacity-30 mix-blend-multiply"
         />
         <p className="text-sm text-muted-foreground">
-          &copy; {new Date().getFullYear()} Nisho. Designed with love &amp;
-          lilies.
+          &copy; {new Date().getFullYear()} Nishat Tasnim. Designed with love
+          &amp; lilies.
         </p>
       </div>
     </footer>
