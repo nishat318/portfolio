@@ -172,8 +172,10 @@ export function Contact() {
             Email
           </a>
           <a
-            href="#"
+            href="https://www.instagram.com/__eu.no_ia/"
             className="social-hover flex items-center gap-2 text-sm text-muted-foreground"
+            target="_blank"
+            rel="noopener noreferrer"
           >
             <Camera className="h-4 w-4" aria-hidden="true" />
             Instagram

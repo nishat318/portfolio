@@ -199,8 +199,7 @@ export function Footer() {
           style={{ animationDuration: "8s" }}
         />
         <p className="text-sm text-muted-foreground">
-          &copy; {new Date().getFullYear()} Nishat Tasnim. Designed with love
-          &amp; lilies.
+          &copy; {new Date().getFullYear()} Nishat Tasnim. Designed by my love, with lots of lilies TwT
         </p>
         {/* Back to top */}
         <a
